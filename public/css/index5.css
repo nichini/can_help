@@ -1,0 +1,30 @@
+@charset "utf-8" ;
+
+ul {
+   
+    overflow: scroll;
+    color: red;
+}
+.check_title {
+    font-size: 25px;
+}
+.check {
+    border-radius: 16px;
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.16);
+    padding: 24px 28px;
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 90px;
+    margin-top: 20px;
+}
+.use {
+    margin-left: 20px;
+}
+.use_title {
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+div .mousikomi{
+    margin-left: 300px;
+}

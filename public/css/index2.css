@@ -1,0 +1,75 @@
+@charset "utf-8" ;
+
+
+main {
+    background-color: #F5F5F5;
+    width: 1240px;
+    margin: 0 auto;
+}
+
+div .helps{
+    background-color: #6480001a;
+    margin: 20 auto;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+h2 {
+    
+    margin-bottom: 20px;
+}
+h4 {
+    font-size: 20px;
+    margin-left: 200px;
+}
+
+h5 {
+    font-size: 20px;
+    margin-left: 200px;
+    margin-bottom: 10px;
+}
+
+img {
+    text-align: center;
+    width: 640px;
+    height: 400px;
+    margin: 30px 230px;
+}
+
+dt {
+    margin-left: 200px;
+    font-size: 20px;
+}
+.edit {
+   font-size: 20px; 
+   margin-left: 200px;
+}
+
+.help{
+    padding-top: 16px;
+    border-top: 2px solid #dedcd7;
+    margin: 20px;
+}
+div .bosyuu {
+    margin-left: 800px
+}
+
+
+div .prefecture_name {
+    font-size: xx-large;
+}
+
+.side {
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: white;
+    width: 50%;
+    box-shadow: 0px 0px 8px rgba(0,0,0,0.16);
+    padding: 24px 28px;
+
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+}
